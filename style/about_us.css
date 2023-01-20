@@ -133,3 +133,172 @@ section div p{
     width: 500px;
     height: 260px;
 }
+
+.box{
+    width: 1200px;
+    margin-top: 170px;
+    background: #2C343E;
+    border-radius: 10px;
+}
+
+.box h1{
+    width: 517px;
+    height: 48px;
+    margin-left: 100px;
+    margin-left: 80px;
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FEFCF7;
+}
+
+.box p{
+    margin-left: 80px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+    opacity: 0.8;
+}
+
+.box img{
+    position: absolute;
+    top: 1371px;
+    left: 797px;
+}
+
+.text{
+    display: flex;
+    margin-left: 165px;
+    margin-top: 160px;
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #83888F;
+}
+
+.text_img{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    margin-top: 72px;
+    gap: 310PX;
+    width: 41px;
+    height: 50px;
+}
+
+.subtext{
+    gap: 112px;
+    margin-top: 167px;
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-style: 32px;
+    line-height: 36px;
+    color: #333D4B;
+}
+
+.subtext h1:first-child{
+    position: absolute;
+    left: 165px;
+}
+
+.subtext h1:nth-child(2){
+    position: absolute;
+    left: 510px;
+}
+
+.subtext h1:last-child{
+    margin-left: 884px;
+}
+
+.p_text{
+    margin-top: 24px;
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+    margin-left: 165px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+}
+
+.p_text p:nth-child(2){
+    position: absolute;
+    left: 515px;
+}
+
+.p_text p:last-child{
+    position: absolute;
+    left: 885px;
+}
+
+footer{
+    position: absolute;
+    width: 1280px;
+    height: 120px;
+    left: 80px;
+    top: 2683px;`
+    background: #2C343E;
+}
+
+.footer_div img{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 30px;
+    top: 58px;
+}
+
+.footer_div h1{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 68px;
+    top: 50px;
+}
+
+.footer_items a{
+    margin-left: 503px;
+    font-family: 'Barlow';
+    color:#83888F;
+}
+
+.foooter_list{
+    position: relative;
+    font-weight: 700;
+    margin-top: 60px;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.923077px;
+    text-transform: uppercase;
+}
+
+.footer_items:first-child{
+    position: absolute;
+}
+
+.footer_items:nth-child(2){
+    position: absolute;
+    margin-left: 80px;
+}
+
+.footer_items:last-child{
+    position: absolute;
+    margin-left: 180px;
+}
+
+.footer_img{
+    display: flex;
+    margin-left: 1000px;
+    gap: 32px;
+}
