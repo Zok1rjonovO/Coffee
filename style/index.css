@@ -6,6 +6,10 @@
     text-decoration: none;
 }
 
+body{
+    background-color: #b2b2b2;
+}`
+
 .container{
     margin: 0 auto;
     padding: 0;
@@ -46,7 +50,7 @@
 }
 
 .header_items:first-child{
-    margin-left: 1130px;
+    margin-left: 1100px;
     height: 15px;
     font-family: 'Barlow';
     font-weight: 700;
