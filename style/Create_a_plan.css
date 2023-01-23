@@ -267,3 +267,25 @@ body{
     line-height: 26px;
     color: #FEFCF7;
 }
+
+.tb{
+    position: absolute;
+    top: 1552px;
+    left: 165px;
+    display: inline-block;
+    width: 255px;
+    height: 356px;
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.tb_p{
+    color: #83888F;
+}
+
+.tb_p:hover{
+    color: #333D4B;
+}
