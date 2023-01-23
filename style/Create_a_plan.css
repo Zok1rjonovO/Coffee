@@ -110,10 +110,160 @@ body{
     opacity: 0.8;
 }
 
-.section{
+.box{
+    position: absolute;
+    top: 831px;
+    left: 65px;
+    margin: 0 auto;
     width: 1280px;
     height: 653px;
     background-color: #2C343E;
-
 }
 
+.circle{
+    width: 31px;
+    height: 31px;
+    box-sizing: border-box;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: 104px;
+    margin-left: 165px;
+    border: 2px solid #0E8784;
+}
+
+.line{
+    position: absolute;
+    width: 760px;
+    height: 1px;
+    margin-left: 180px;
+    top: 120px;
+    border: 2px solid #FDD6BA;
+    
+}
+
+.circle2{
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+    margin-left: 545px;
+    margin-top: 104px;
+    box-sizing: border-box;
+    position: absolute;
+    border: 2px solid #0E8784;
+}
+
+.circle3{
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+    margin-left: 925px;
+    margin-top: 104px;
+    box-sizing: border-box;
+    position: absolute;
+    border: 2px solid #0E8784;
+}
+
+.n01{position: absolute;
+    margin-left: 160px;
+    margin-top: 160px;
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 72px;
+    color: #FDD6BA;
+}
+.n02{position: absolute;
+    margin-left: 545px;
+    margin-top: 160px;
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 72px;
+    color: #FDD6BA;
+}
+.n03{position: absolute;
+    margin-left: 925px;
+    margin-top: 160px;
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 72px;
+    color: #FDD6BA;
+}
+
+.g1{
+    width: 145px;
+    height: 73px;
+    margin-top: 300px;
+    margin-left: 165px;
+    font-family: 'Fraunces 9pt';
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    color: #FEFCF7;
+}
+
+.g2{
+    width: 160px;
+    height: 73px;
+    margin-top: -73px;
+    margin-left: 545px;
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    color: #FEFCF7;
+}
+
+.g3{
+    width: 145px;
+    height: 73px;
+    margin-top: -73px;
+    margin-left: 925px;
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    color: #FEFCF7;
+}
+
+.pg1{
+    margin-top: 43px;
+    margin-left: 165px;
+    width: 285px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+}
+
+.pg2{
+    margin-top: -133px;
+    margin-left: 545px;
+    width: 285px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+}
+
+.pg3{
+    margin-top: -133px;
+    margin-left: 925px;
+    width: 285px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+}
